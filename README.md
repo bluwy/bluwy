@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**bluwy/bluwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ꧁B꧂꧁J꧂꧁O꧂꧁R꧂꧁N꧂
+</p>
+<p align="center">
+  «&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bjornlu.com">Website</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bjornlu.com/todo">Todo</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://reddit.com/IamLUG">Reddit</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/bluwyoo">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://patreon.com/bluwy">Patreon</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  »
+</p>
+<p align="center">
+  ꧁L꧂꧁U꧂
+</p>
