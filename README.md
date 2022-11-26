@@ -4,10 +4,10 @@
 <p align="center">
   «&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bjornlu.com">Website</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bjornlu.com/todo">Todo</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://reddit.com/IamLUG">Reddit</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/bluwyoo">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://patreon.com/bluwy">Patreon</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mas.to/@bluwy">Mastodon</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bjornlu.com/sponsor">Sponsor</a>&nbsp;&nbsp;&nbsp;&nbsp;
   »
 </p>
 <p align="center">
